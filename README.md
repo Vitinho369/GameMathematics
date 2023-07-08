@@ -9,7 +9,7 @@ Requerimentos de instalação para poder executar as animações do jogo:
     - sl
     - cowsay
 
-* Na distribuição Ubuntu os comandos de instalação são os seguintes:
+Na distribuição Ubuntu os comandos de instalação são os seguintes:
 
     - sudo apt update
     - sudo apt install boxes
