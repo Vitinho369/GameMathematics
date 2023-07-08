@@ -15,3 +15,8 @@ Para executar o jogo é necessário estar em um ambiente Linux
     - sudo apt install boxes
     - sudo apt install cowsay
     - sudo apt install sl
+
+Jogo desenvolvido na linguagem de programação C++, utilizando threads para execução
+simultânea de processo, como trabalho extra da disciplina de Fundamentos da Computação
+
+Vídeo explicando o funcionamento do jogo: https://youtu.be/PmwCVWXLer4
